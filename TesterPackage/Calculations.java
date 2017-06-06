@@ -8,4 +8,9 @@ public class Calculations {
 		
 	}
 
+	public String AddSttrings(String a, String b)
+	{
+		return a+b;
+		
+	}
 }
